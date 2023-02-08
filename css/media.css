@@ -38,6 +38,10 @@
         font-size: 14px;
     }
 
+    .header-arrow{
+        left: 45%;
+    }
+
     .portfolio {
         padding-top: 40px;
         padding-bottom: 60px;
