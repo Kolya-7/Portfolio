@@ -21,6 +21,10 @@
     .footer-col:last-child {
         margin-bottom: 0;
     }
+
+    video{
+        display: block !important;
+    }
 }
 
 @media (max-width: 760px) {
